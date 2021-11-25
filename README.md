@@ -10,7 +10,6 @@ There are a couple of common cases in React where we want to use the Effects hoo
 
 ## Instructions
 
-- Use this template => https://codesandbox.io/s/crypto-tracker-starter-template-edtw5
 - **Make sure you check the existing code, ex. components, props, etc**
 - You will find a file called `constants.js` with **all the URLs** for your fetches. You just need to import them where needed
 - **Make sure to check what are the responses from these fetches**
