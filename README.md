@@ -2,7 +2,7 @@
 
 There are a couple of common cases in React where we want to use the Effects hook in React, and we're going to build a [crypto tracker](./images/crypto-tracker.gif) to practise these. You'll have to use Fetch and setInterval, and most importantly, figure out when to use them with `useEffect`!
 
-## Prerequisites
+## Setup
 
 1. Fork this repository
 2. Clone the forked repository onto your local machines
